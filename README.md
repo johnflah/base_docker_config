@@ -1,5 +1,4 @@
-# base_docker_config
-# base_docker_config
+# An Apache2, MySQL5.7, PHP 7 Docker config
 This is a small project to convert a docker blog post from Rachel Andrews to an actual project with docker. A simple web project.
 Please check out Rachels excellent work at perchrunway.com
 (Original Blog Post : https://perchrunway.com/blog/2017-01-19-getting-started-with-docker-for-local-development)
